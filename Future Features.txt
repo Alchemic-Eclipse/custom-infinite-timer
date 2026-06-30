@@ -1,3 +1,5 @@
-Add Colors in terminal
+Add Colors in terminal [done]
 Add action to button for a few type of tasks (Customizable)
 Add new types of audio
+
+P.S. Please suggest more features if possible, before I run out of ideas.. :)

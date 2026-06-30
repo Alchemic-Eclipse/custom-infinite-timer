@@ -21,7 +21,7 @@ while True:
     now = datetime.datetime.now()
     later = now + datetime.timedelta(minutes=time_gap)  # Current time + time interval
 
-    print(f"\n{color_str("Current", "yellow")} time: {now.time()}\n{color_str("Next", "yellow")} Reminder at: {later.time()}")
+    print(f"\n{color_str("Current", "green")} time: {now.time()}\n{color_str("Next", "yellow")} Reminder at: {later.time()}")
 
     time.sleep(time_gap*60) # Time takes input in seconds 
     print(f"\n{color_str("REMINDER:", "red")} {text}")
